@@ -1,0 +1,12 @@
+.option, 
+.select {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.option {
+    background-color: #000000;
+    color: #ffffff;
+}
+.select {
+    background-color: yellow;
+}
